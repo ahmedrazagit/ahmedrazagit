@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **Flutter, Machine Learning**
 
-- 📫 Feel free to reach me out **ahmedraza1233@gmail.com**
+- 📫 Feel free to reach out to me at **ahmedraza1233@gmail.com**
 
 
 
